@@ -1,2 +1,2 @@
-# odin-web-template
-Template repository for webdev projects in The Odin project
+# odin-\<project-name\>
+Repository for \<project-name\> as part of [The Odin Project](https://www.theodinproject.com/).
